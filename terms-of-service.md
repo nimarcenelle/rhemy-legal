@@ -98,7 +98,7 @@ These Terms are between you and us, not Apple. Apple has no obligation to furnis
 
 ## 13. Governing law and disputes
 
-These Terms are governed by the laws of **[STATE/COUNTRY — set before publishing]**, without regard to conflict-of-laws rules. Disputes will be resolved in the courts of that jurisdiction, except that either party may pursue small-claims relief where eligible, and nothing prevents you from relying on mandatory consumer-protection laws of your place of residence.
+These Terms are governed by the laws of the **State of California, USA**, without regard to conflict-of-laws rules. Disputes will be resolved in the courts of that jurisdiction, except that either party may pursue small-claims relief where eligible, and nothing prevents you from relying on mandatory consumer-protection laws of your place of residence.
 
 ## 14. General
 
