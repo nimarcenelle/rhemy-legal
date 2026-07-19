@@ -1,16 +1,16 @@
-# STACK Terms of Service
+# Stack Terms of Service
 
 **Effective date: July 18, 2026**
 
-These Terms of Service ("Terms") govern your use of the STACK iOS application ("the app," "STACK," "we," "us"). By downloading or using the app, you agree to these Terms. If you do not agree, do not use the app.
+These Terms of Service ("Terms") govern your use of the Stack iOS application ("the app," "Stack," "we," "us"). By downloading or using the app, you agree to these Terms. If you do not agree, do not use the app.
 
 Please also read our [Privacy Policy](./privacy-policy), which describes how the app handles your information.
 
-## 1. What STACK is — and is not
+## 1. What Stack is — and is not
 
-STACK grades supplement products by comparing the information printed on their labels (doses, ingredient forms) against published reference doses, and against a priority profile built from your quiz answers and appearance signals. Every grade is produced by a fixed, mechanical rules table.
+Stack grades supplement products by comparing the information printed on their labels (doses, ingredient forms) against published reference doses, and against a priority profile built from your quiz answers and appearance signals. Every grade is produced by a fixed, mechanical rules table.
 
-**STACK is not a medical service.**
+**Stack is not a medical service.**
 
 - The app does **not** provide medical advice, diagnosis, or treatment, and nothing in the app should be read as a claim about health outcomes.
 - Grades reflect **label data versus published reference doses** — nothing more. A grade is a statement about a label, not about your body.
@@ -22,7 +22,7 @@ STACK grades supplement products by comparing the information printed on their l
 
 ## 2. Eligibility
 
-You must be at least 18 years old (or the age of majority where you live) to use STACK. By using the app you represent that you meet this requirement and that your use complies with all laws that apply to you.
+You must be at least 18 years old (or the age of majority where you live) to use Stack. By using the app you represent that you meet this requirement and that your use complies with all laws that apply to you.
 
 ## 3. License
 
@@ -53,7 +53,7 @@ The app offers optional paid unlocks. All payments are processed by Apple throug
 
 **Refunds** — purchases are refundable only through Apple, per Apple's policies. Request one at reportaproblem.apple.com. We cannot issue App Store refunds ourselves.
 
-**No accounts** — purchases are tied to an anonymous identifier and your Apple ID, not to a STACK account (none exists). Keeping access to your Apple ID is your responsibility.
+**No accounts** — purchases are tied to an anonymous identifier and your Apple ID, not to a Stack account (none exists). Keeping access to your Apple ID is your responsibility.
 
 ## 5. Your content and data
 

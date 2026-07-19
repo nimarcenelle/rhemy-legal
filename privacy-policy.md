@@ -1,8 +1,8 @@
-# STACK Privacy Policy
+# Stack Privacy Policy
 
 **Effective date: July 18, 2026**
 
-This Privacy Policy describes how STACK ("the app," "we," "us") handles your information. STACK is designed around a simple principle: **your data lives on your phone.** There are no accounts, no sign-ups, no cloud database of users, and no advertising or analytics SDKs.
+This Privacy Policy describes how Stack ("the app," "we," "us") handles your information. Stack is designed around a simple principle: **your data lives on your phone.** There are no accounts, no sign-ups, no cloud database of users, and no advertising or analytics SDKs.
 
 Please read this policy together with our [Terms of Service](./terms-of-service).
 
@@ -31,7 +31,7 @@ The following never leaves your phone. It is stored in the app's local database 
 
 ### 2. Photos — processed, not stored
 
-STACK uses your camera (with your permission) for three features: the face scan, the shelf scan, and Scan Anywhere. You can also pick a screenshot from your photo library for Scan Anywhere.
+Stack uses your camera (with your permission) for three features: the face scan, the shelf scan, and Scan Anywhere. You can also pick a screenshot from your photo library for Scan Anywhere.
 
 When you capture or select a photo:
 
@@ -56,7 +56,7 @@ We never attach your identity to this anonymous ID, and we do not use it to trac
 
 ### 4. Notifications
 
-All reminders (report reminders, rescan nudges, weekly check-ins) are **local notifications scheduled on your device**. There is no push-notification server and nothing is transmitted to schedule them. You can disable them at any time in iOS Settings → Notifications → STACK.
+All reminders (report reminders, rescan nudges, weekly check-ins) are **local notifications scheduled on your device**. There is no push-notification server and nothing is transmitted to schedule them. You can disable them at any time in iOS Settings → Notifications → Stack.
 
 ### 5. Photo library saving
 
@@ -113,7 +113,7 @@ Data in transit uses TLS (HTTPS). On-device data is protected by iOS's built-in 
 
 ## Children
 
-STACK is intended for adults and is not directed to children under 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child has used the app and submitted a photo, contact us and note that photos are, in any case, not retained.
+Stack is intended for adults and is not directed to children under 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children. If you believe a child has used the app and submitted a photo, contact us and note that photos are, in any case, not retained.
 
 ## Changes to this policy
 
